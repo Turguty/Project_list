@@ -24,3 +24,31 @@ https://github.com/DIYgod/RSSHub    generate RSS feeds from any website
 https://github.com/Mostafa-Wahied/portracker      self-hosted tool for real-time port monitoring and discovery
 https://github.com/amalshaji/portr      open source tool to share local servers online
 https://github.com/evilsocket/opensnitch    Linux app firewall that lets you control and monitor outgoing connections per app
+https://github.com/MorDavid/BruteForceAI		AI that cracks passwords with brute force
+https://github.com/budtmo/docker-android	run android emulators in docker containers
+https://github.com/jhaals/yopass		Send encrypted messages and files via a one-time URL
+https://www.opensourceprojects.dev/post/1948309353552822763		Run a full virtual desktop inside a Docker container, accessible via WebRTC, right from your browser.
+https://github.com/mealie-recipes/mealie		self-hosted recipe manager and meal planner
+https://github.com/shlinkio/shlink			self-hosted URL shortener with analytics and custom domains
+https://github.com/egoist/sitefetch			fetch a whole website and save as text for ai projects
+https://www.opensourceprojects.dev/post/1947571960700920075				Make beautiful isometric infrastructure diagrams
+https://github.com/operacle/checkcle		self-hosted uptime and incident monitoring tool
+https://github.com/metabase/metabase		open-source tool for dashboards and data visualization
+https://github.com/frappe/books		free desktop accounting for small businesses and freelancers
+https://github.com/qdm12/ddns-updater	updates DNS records for lots of providers with a simple container
+https://github.com/serengil/deepface	face recognition and analysis in python
+https://github.com/getumbrel/umbrel		run your own home server, bitcoin node, and self-hosted apps (CASAOS alternatifi)
+https://github.com/azukaar/Cosmos-Server		Self-hosted platform for managing Docker containers, apps, domains, and security tools
+https://github.com/iptv-org/iptv		public IPTV channel lists from around the world
+https://github.com/linuxserver/docker-webtop		linux desktop in your browser with docker
+https://github.com/unsend-dev/unsend	open source email sending platform with dashboard and API
+https://github.com/ChrispyBacon-dev/DockFlare		Automates Cloudflare Tunnel setup for Docker apps with easy web UI
+https://github.com/lllllllillllllillll/DweebUI		web UI for managing containers with real-time dashboard and multi-user support
+https://github.com/yorukot/superfile			terminal file manager with a clean UI and easy navigation
+https://www.opensourceprojects.dev/post/1946795341036085662				The free,  open-source and privacy-friendly screen recorder with no limits
+https://github.com/bluewave-labs/Checkmate				self-hosted server and website monitoring tool
+https://www.opensourceprojects.dev/post/1946501628401799440			Open-source personal finance app.
+https://github.com/C4illin/ConvertX					self-hosted file converter for 1000+ formats
+https://www.opensourceprojects.dev/post/1944013390713958656			Virtual Machine for the Web
+https://github.com/airbytehq/airbyte			open-source tool for syncing data from lots of sources
+https://github.com/zane-ops/zane-ops			self-hosted platform for deploying web apps, databases, and cron jobs

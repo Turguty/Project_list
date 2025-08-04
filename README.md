@@ -1,4 +1,4 @@
-https://github.com/christian-fei/my-yt   A clean and minimal youtube frontend supported by yt-dlp, and optionally your local AI model, to make your youtube experience local, mindful and succint.
+https://github.com/christian-fei/my-yt   A clean and minimal youtube frontend supported by yt-dlp, and optionally your local AI model, to make your youtube experience local, mindful and succint.\n
 https://github.com/feschber/lan-mouse    Lan Mouse is a cross-platform mouse and keyboard sharing software similar to universal-control on Apple devices. It allows for using multiple PCs via a single set of mouse and keyboard. This is also known as a Software KVM switch.
 https://github.com/shadps4-emu/shadPS4   PS4 Emulator
 https://github.com/ultrasecurity/Storm-Breaker  tool for grabbing location, webcam, mic, device info

@@ -52,3 +52,8 @@ https://github.com/C4illin/ConvertX					self-hosted file converter for 1000+ for
 https://www.opensourceprojects.dev/post/1944013390713958656			Virtual Machine for the Web
 https://github.com/airbytehq/airbyte			open-source tool for syncing data from lots of sources
 https://github.com/zane-ops/zane-ops			self-hosted platform for deploying web apps, databases, and cron jobs
+https://github.com/goauthentik/authentik      Self-hosted identity provider for user authentication, single sign-on, and access control
+https://github.com/subnub/myDrive    self-hosted cloud file storage like Google Drive
+https://github.com/steel-dev/steel-browser    open-source browser API for automating web tasks with AI agents
+https://github.com/steveiliop56/tinyauth      simple login and OAuth for homelab apps
+

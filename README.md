@@ -1,7 +1,7 @@
-https://github.com/christian-fei/my-yt   A clean and minimal youtube frontend supported by yt-dlp, and optionally your local AI model, to make your youtube experience local, mindful and succint.\n
-https://github.com/feschber/lan-mouse    Lan Mouse is a cross-platform mouse and keyboard sharing software similar to universal-control on Apple devices. It allows for using multiple PCs via a single set of mouse and keyboard. This is also known as a Software KVM switch.
-https://github.com/shadps4-emu/shadPS4   PS4 Emulator
-https://github.com/ultrasecurity/Storm-Breaker  tool for grabbing location, webcam, mic, device info
+https://github.com/christian-fei/my-yt   A clean and minimal youtube frontend supported by yt-dlp, and optionally your local AI model, to make your youtube experience local, mindful and succint.  
+https://github.com/feschber/lan-mouse    Lan Mouse is a cross-platform mouse and keyboard sharing software similar to universal-control on Apple devices. It allows for using multiple PCs via a single set of mouse and keyboard. This is also known as a Software KVM switch.  
+https://github.com/shadps4-emu/shadPS4   PS4 Emulator  
+https://github.com/ultrasecurity/Storm-Breaker  tool for grabbing location, webcam, mic, device info  
 https://www.opensourceprojects.dev/post/1951541289801097313  WireGuard Easy: The easiest way to run WireGuard VPN + Web-based Admin UI.
 https://github.com/hudy9x/namviek  Namviek is designed for development teams operating on limited budgets, providing essential project management features without the high costs.
 https://github.com/flet-dev/flet  build realtime apps in Python for web, desktop, and mobile
